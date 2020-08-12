@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{362:function(n,t,e){"use strict";e.r(t);var s=e(41),u=Object(s.a)({name:"NotFound"},(function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)}),[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"NotFound"},[e("h1",[n._v("PAGE NOT FOUND")])])}],!1,null,null,null);t.default=u.exports}}]);
+//# sourceMappingURL=1.bundle.js.map
